@@ -6,7 +6,7 @@ export default [
 		stars: {
 			rating: 4.5,
 			starImg: "star.jpg",
-			ratingCount: 20
+			reviewCount: 20
 		},
 		description: "Shopping Centre"
 	},
@@ -17,7 +17,7 @@ export default [
 		stars: {
 			rating: 4.3,
 			starImg: "star.jpg",
-			ratingCount: 4.3
+			reviewCount: 4.3
 		},
 		description: "Park and Garden"
 	},
@@ -28,7 +28,7 @@ export default [
 		stars: {
 			rating: 4.2,
 			starImg: "star.jpg",
-			ratingCount: 989
+			reviewCount: 989
 		},
 		description: "Restaurant"
 	},
@@ -39,7 +39,7 @@ export default [
 		stars: {
 			rating: 4.5,
 			starImg: "star.jpg",
-			ratingCount: 628
+			reviewCount: 628
 		},
 		description: "Art Gallery"
 	},
@@ -50,7 +50,7 @@ export default [
 		stars: {
 			rating: 4.5,
 			starImg: "star.jpg",
-			ratingCount: 4.3
+			reviewCount: 4.3
 		},
 		description: "Mosque"
 	},
@@ -61,7 +61,7 @@ export default [
 		stars: {
 			rating: 4.4,
 			starImg: "star.jpg",
-			ratingCount: 5.5
+			reviewCount: 5.5
 		},
 		description: "Restaurant"
 	},
@@ -72,7 +72,7 @@ export default [
 		stars: {
 			rating: 4.4,
 			starImg: "star.jpg",
-			ratingCount: 4
+			reviewCount: 4
 		},
 		description: "Resort Hotel"
 	},
@@ -83,7 +83,7 @@ export default [
 		stars: {
 			rating: 4.3,
 			starImg: "star.jpg",
-			ratingCount: 4.6
+			reviewCount: 4.6
 		},
 		description: "Amusement Park"
 	},
@@ -94,7 +94,7 @@ export default [
 		stars: {
 			rating: 4.4,
 			starImg: "star.jpg",
-			ratingCount: 3.2
+			reviewCount: 3.2
 		},
 		description: "Shopping Centre"
 	},
@@ -105,7 +105,7 @@ export default [
 		stars: {
 			rating: 4.5,
 			starImg: "star.jpg",
-			ratingCount: 201
+			reviewCount: 201
 		},
 		description: "Microbrewery"
 	},
@@ -116,7 +116,7 @@ export default [
 		stars: {
 			rating: 4.1,
 			starImg: "star.jpg",
-			ratingCount: 2.4
+			reviewCount: 2.4
 		},
 		description: "Garden"
 	},
@@ -127,7 +127,7 @@ export default [
 		stars: {
 			rating: 4.4,
 			starImg: "star.jpg",
-			ratingCount: 210
+			reviewCount: 210
 		},
 		description: "Art Gallery"
 	},
@@ -138,7 +138,7 @@ export default [
 		stars: {
 			rating: 5.0,
 			starImg: "star.jpg",
-			ratingCount: 1
+			reviewCount: 1
 		},
 		description: "Mosque"
 	},
@@ -149,7 +149,7 @@ export default [
 		stars: {
 			rating: 4.3,
 			starImg: "star.jpg",
-			ratingCount: 378
+			reviewCount: 378
 		},
 		description: "Lake"
 	},
@@ -160,7 +160,7 @@ export default [
 		stars: {
 			rating: 4.2,
 			starImg: "star.jpg",
-			ratingCount: 5.6
+			reviewCount: 5.6
 		},
 		description: "Bar & Grill"
 	}

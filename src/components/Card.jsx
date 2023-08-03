@@ -6,7 +6,7 @@ const Card = (props) => {
             <div className="card--stats">
                 <span>{props.ds.stars.rating}</span>
                 <span>{props.ds.stars.starImg}</span>
-                <span>{props.ds.stars.ratingCount}</span>
+                <span>{props.ds.stars.reviewCount}</span>
             </div>
             <p>{props.ds.description}</p>
         </div>
