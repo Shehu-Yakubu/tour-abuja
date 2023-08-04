@@ -8,8 +8,8 @@ import dataStore from './dataStore'
 import './App.css'
 
 const App = () => {
-  const dataElements = dataStore.map((ds) => {
-    <Card
+  const dataElements = dataStore.map(ds => {
+    return <Card
       key={ds.id}
       data={ds}
     />

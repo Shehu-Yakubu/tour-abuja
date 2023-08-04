@@ -1,167 +1,167 @@
 export default [
 	{
-		id: 1,
-		placeImg: "jabi-lake-mall.jpg",
-		title: "Jabi Lake Mall",
-		stars: {
-			rating: 4.5,
-			starImg: "star.jpg",
-			reviewCount: 20
+		"id": 1,
+		"placeImg": "jabi-lake-mall.jpg",
+		"title": "Jabi Lake Mall",
+		"stars": {
+			"rating": 4.5,
+			"starImg": "star.jpg",
+			"reviewCount": 20
 		},
-		description: "Shopping Centre"
+		"description": "Shopping Centre"
 	},
 	{
-		id: 2,
-		placeImg: "millennium-park.jpg",
-		title: "Millennium Park",
-		stars: {
-			rating: 4.3,
-			starImg: "star.jpg",
-			reviewCount: 4.3
+		"id": 2,
+		"placeImg": "millennium-park.jpg",
+		"title": "Millennium Park",
+		"stars": {
+			"rating": 4.3,
+			"starImg": "star.jpg",
+			"reviewCount": 4.3
 		},
-		description: "Park and Garden"
+		"description": "Park and Garden"
 	},
 {
-		id: 3,
-		placeImg: "blake-resort-restaurant.jpg",
-		title: "Blake Resort - Restaurant & Lounge - Garki Abuja",
-		stars: {
-			rating: 4.2,
-			starImg: "star.jpg",
-			reviewCount: 989
+		"id": 3,
+		"placeImg": "blake-resort-restaurant.jpg",
+		"title": "Blake Resort - Restaurant & Lounge - Garki Abuja",
+		"stars": {
+			"rating": 4.2,
+			"starImg": "star.jpg",
+			"reviewCount": 989
 		},
-		description: "Restaurant"
+		"description": "Restaurant"
 	},
 {
-		id: 4,
-		placeImg: "thought-pyramid-art-centre.jpg",
-		title: "Thought Pyramid Art Centre, Abuja",
-		stars: {
-			rating: 4.5,
-			starImg: "star.jpg",
-			reviewCount: 628
+		"id": 4,
+		"placeImg": "thought-pyramid-art-centre.jpg",
+		"title": "Thought Pyramid Art Centre, Abuja",
+		"stars": {
+			"rating": 4.5,
+			"starImg": "star.jpg",
+			"reviewCount": 628
 		},
-		description: "Art Gallery"
+		"description": "Art Gallery"
 	},
 {
-		id: 5,
-		placeImg: "abuja-national-mosque.jpg",
-		title: "Abuja National Mosque",
-		stars: {
-			rating: 4.5,
-			starImg: "star.jpg",
-			reviewCount: 4.3
+		"id": 5,
+		"placeImg": "abuja-national-mosque.jpg",
+		"title": "Abuja National Mosque",
+		"stars": {
+			"rating": 4.5,
+			"starImg": "star.jpg",
+			"reviewCount": 4.3
 		},
-		description: "Mosque"
+		"description": "Mosque"
 	},
 	{
-		id: 6,
-		placeImg: "blucabana-restaurant-and-cafe.jpg",
-		title: "BluCabana Restaurant & Cafe",
-		stars: {
-			rating: 4.4,
-			starImg: "star.jpg",
-			reviewCount: 5.5
+		"id": 6,
+		"placeImg": "bluecabana-restaurant-and-cafe.jpg",
+		"title": "BluCabana Restaurant & Cafe",
+		"stars": {
+			"rating": 4.4,
+			"starImg": "star.jpg",
+			"reviewCount": 5.5
 		},
-		description: "Restaurant"
+		"description": "Restaurant"
 	},
 	{
-		id: 7,
-		placeImg: "the-dome.jpg",
-		title: "The Dome",
-		stars: {
-			rating: 4.4,
-			starImg: "star.jpg",
-			reviewCount: 4
+		"id": 7,
+		"placeImg": "the-dome.jpg",
+		"title": "The Dome",
+		"stars": {
+			"rating": 4.4,
+			"starImg": "star.jpg",
+			"reviewCount": 4
 		},
-		description: "Resort Hotel"
+		"description": "Resort Hotel"
 	},
 {
-		id: 8,
-		placeImg: "magic-land.jpg",
-		title: "Magic Land",
-		stars: {
-			rating: 4.3,
-			starImg: "star.jpg",
-			reviewCount: 4.6
+		"id": 8,
+		"placeImg": "magic-land.jpg",
+		"title": "Magic Land",
+		"stars": {
+			"rating": 4.3,
+			"starImg": "star.jpg",
+			"reviewCount": 4.6
 		},
-		description: "Amusement Park"
+		"description": "Amusement Park"
 	},
 {
-		id: 9,
-		placeImg: "dunes-center.jpg",
-		title: "Dunes Center",
-		stars: {
-			rating: 4.4,
-			starImg: "star.jpg",
-			reviewCount: 3.2
+		"id": 9,
+		"placeImg": "dunes-center.jpg",
+		"title": "Dunes Center",
+		"stars": {
+			"rating": 4.4,
+			"starImg": "star.jpg",
+			"reviewCount": 3.2
 		},
-		description: "Shopping Centre"
+		"description": "Shopping Centre"
 	},
 {
-		id: 10,
-		placeImg: "bature-brewery.jpg",
-		title: "Bature Brewery",
-		stars: {
-			rating: 4.5,
-			starImg: "star.jpg",
-			reviewCount: 201
+		"id": 10,
+		"placeImg": "bature-brewery.jpg",
+		"title": "Bature Brewery",
+		"stars": {
+			"rating": 4.5,
+			"starImg": "star.jpg",
+			"reviewCount": 201
 		},
-		description: "Microbrewery"
+		"description": "Microbrewery"
 	},
 	{
-		id: 11,
-		placeImg: "bmt-african-garden.jpg",
-		title: "BMT African Garden",
-		stars: {
-			rating: 4.1,
-			starImg: "star.jpg",
-			reviewCount: 2.4
+		"id": 11,
+		"placeImg": "bmt-african-garden.jpg",
+		"title": "BMT African Garden",
+		"stars": {
+			"rating": 4.1,
+			"starImg": "star.jpg",
+			"reviewCount": 2.4
 		},
-		description: "Garden"
+		"description": "Garden"
 	},
 	{
-		id: 12,
-		placeImg: "retro-africa.jpg",
-		title: "Retro Africa",
-		stars: {
-			rating: 4.4,
-			starImg: "star.jpg",
-			reviewCount: 210
+		"id": 12,
+		"placeImg": "retro-africa.jpg",
+		"title": "Retro Africa",
+		"stars": {
+			"rating": 4.4,
+			"starImg": "star.jpg",
+			"reviewCount": 210
 		},
-		description: "Art Gallery"
+		"description": "Art Gallery"
 	},
 	{
-		id: 13,
-		placeImg: "an-noor-mosque.jpg",
-		title: "An Noor Mosque",
-		stars: {
-			rating: 5.0,
-			starImg: "star.jpg",
-			reviewCount: 1
+		"id": 13,
+		"placeImg": "an-noor-mosque.jpg",
+		"title": "An Noor Mosque",
+		"stars": {
+			"rating": 5.0,
+			"starImg": "star.jpg",
+			"reviewCount": 1
 		},
-		description: "Mosque"
+		"description": "Mosque"
 	},
 	{
-		id: 14,
-		placeImg: "jabi-lake.jpg",
-		title: "Jabi Lake",
-		stars: {
-			rating: 4.3,
-			starImg: "star.jpg",
-			reviewCount: 378
+		"id": 14,
+		"placeImg": "jabi-lake.jpg",
+		"title": "Jabi Lake",
+		"stars": {
+			"rating": 4.3,
+			"starImg": "star.jpg",
+			"reviewCount": 378
 		},
-		description: "Lake"
+		"description": "Lake"
 	},
 	{
-		id: 15,
-		placeImg: "the-junkyard-grills.jpg",
-		title: "The Junkyard",
-		stars: {
-			rating: 4.2,
-			starImg: "star.jpg",
-			reviewCount: 5.6
+		"id": 15,
+		"placeImg": "the-junkyard-grills.jpg",
+		"title": "The Junkyard",
+		"stars": {
+			"rating": 4.2,
+			"starImg": "star.jpg",
+			"reviewCount": 5.6
 		},
-		description: "Bar & Grill"
+		"description": "Bar & Grill"
 	}
 ]
